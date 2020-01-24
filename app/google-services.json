@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "669057693669",
+    "firebase_url": "https://crowdfoundingadmin.firebaseio.com",
+    "project_id": "crowdfoundingadmin",
+    "storage_bucket": "crowdfoundingadmin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:669057693669:android:b90ecff40196ecd271a10c",
+        "android_client_info": {
+          "package_name": "com.guilcapi.crowdfoundingadmin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "669057693669-t468jgsikh811sh40rgi0ienp2qcjkti.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.guilcapi.crowdfoundingadmin",
+            "certificate_hash": "852914dbddfc1b7ae50564750e496ad70d92dea1"
+          }
+        },
+        {
+          "client_id": "669057693669-2946copseck0s8fs0entddjjk6078bt5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_y9D0ojJ0G1Dq9hqVuTyBTgMp2UNzJyw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "669057693669-2946copseck0s8fs0entddjjk6078bt5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
